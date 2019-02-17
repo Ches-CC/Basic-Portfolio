@@ -5,7 +5,8 @@ html {
 }
 
 body {
-    background-image: url(/assets/images/light_honeycomb.png);
+    background-image: url("../images/light_honeycomb.png");
+    min-height: 100%;
     align-items: center;
     align-content: center;
     align-self: center;
